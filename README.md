@@ -4,7 +4,7 @@
 This code calculates the payable amount for the electricity consumed by the customer based on the units consumed. It takes the customer name, address, and units consumed as input and calculates the total amount, discount, total discount, and payable amount after the discount.
 
 ## Functions
-###initialDisplay()
+### initialDisplay()
 This function is used to display an initial message to the user before taking input.
 
 ### inputInfo()
